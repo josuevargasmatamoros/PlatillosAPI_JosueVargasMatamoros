@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlatillosAPI_JosueVargasMatamoros", "PlatillosAPI_JosueVargasMatamoros\PlatillosAPI_JosueVargasMatamoros.csproj", "{080D0E71-15D4-4552-90AB-3A0B7DB2D441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{080D0E71-15D4-4552-90AB-3A0B7DB2D441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{080D0E71-15D4-4552-90AB-3A0B7DB2D441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{080D0E71-15D4-4552-90AB-3A0B7DB2D441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{080D0E71-15D4-4552-90AB-3A0B7DB2D441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB650DE8-B118-4E23-B213-1B5F81086EF2}
+	EndGlobalSection
+EndGlobal
